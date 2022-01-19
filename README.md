@@ -34,6 +34,8 @@ The metrics of the trained model and the performance in Kaggle are as follows.
 |Kaggle Public Score|3,384.72 (vs. 2,237.71)|
 |Kaggle Private Score|3,521.34 (vs. 2,301.49)|
 
-![Forecast for '1-1'](./img/fcst_sample.png)
+![Forecast for '1-1'](./img/fcst_sample1.png)
+![Forecast for '3-3'](./img/fcst_sample2.png)
+![Forecast for '5-5'](./img/fcst_sample3.png)
 ### References
 * [Amazon Forecast Samples](https://github.com/aws-samples/amazon-forecast-samples)
