@@ -20,7 +20,8 @@
 |Forecasts generation|A forecast creation|The training period should be at least 4 times longer than the prediction period. As a result, not all of the prediction period values Kaggle requires were generated.|
 |Forecasts generation|Querying forecast|The values of the prediction distribution for the sample item are shown in the graph below.|
 |Insights exploration|Creating and exporting explainability (item level)|Up to 50 items and up to 500 data points are supported.|  
-![Explainability Export (Model Level)](./img/expl_model_level_export.png)  
+  
+![Explainability Export (Model Level)](./img/expl_model_level_export.png)   
 The metrics of the trained model and the performance in Kaggle are as follows.
   
 |Predictor Metrics|Values (vs. Kaggle 1st Score)|
