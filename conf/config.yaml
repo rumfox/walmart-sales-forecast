@@ -1,0 +1,26 @@
+credential:
+    profile_name:
+    region_name: ap-northeast-2
+    iam_role_name: wms-fcst-role
+  
+data:
+    s3_bucket_name: wms-fcst-bucket
+    s3_proc_data_prefix: proc_data
+    fcst_domain: retail
+    fcst_data_freq: W
+    fcst_timestamp_format: yyyy-MM-dd
+    fcst_dataset_group_name: wms_fcst
+    fcst_dataset_name: wms_fcst
+    
+model:
+    fcst_predictor_name: wms_fcst
+    fcst_opt_metric: WAPE
+    fcst_backtest_export_name: wms_fcst
+    s3_backtest_export_prefix: backtest_export
+    fcst_expl_export_name: wms_fcst
+    s3_expl_export_prefix: expl_export
+    fcst_fcst_name: wms_fcst
+    fcst_fcst_export_name: wms_fcst
+    s3_fcst_export_prefix: fcst_export
+    fcst_expl_name: wms_fcst
+    s3_expl_item_subset_prefix: expl_item_subset
