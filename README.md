@@ -1,7 +1,7 @@
 # Walmart Store Sales Forecasting with Amazon Forecast
 ### Goals
 * Create a sales forecasting model with **Amazon Forecast** and use its many features.
-* (Optional) Draw interactive graphs using `plotly`.
+* (Optional) Make interactive graphs using `plotly`.
 ### Requirements
 * The dataset can be downloaded from [this Kaggle competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview/description).
 * In addition to the Anaconda libraries, you need to install `awscli`, `boto3` and `plotly`. You must also set your AWS credentials appropriately.
