@@ -14,9 +14,9 @@
 |Importing data|Dataset group creation| |
 |Importing data|Datasets creation| |
 |Importing data|Importing datasets| |
-|A predictor training|*AutoPredictor* training|Since the competition evaluation criterion was WMAE, the model training metric was set to a similar WAPE.|
-|A predictor training|Exporting backtests (item level)| |
-|A predictor training|Creating and exporting explainability (model level)|A graph of the trained model explainability is shown below.|
+|Predictor training|*AutoPredictor* training|Since the competition evaluation criterion was WMAE, the model training metric was set to a similar WAPE.|
+|Predictor training|Exporting backtests (item level)| |
+|Predictor training|Creating and exporting explainability (model level)|A graph of the trained model explainability is shown below.|
 |Forecasts generation|A forecast creation|The training period should be at least 4 times longer than the prediction period. As a result, not all of the prediction period values Kaggle requires were generated.|
 |Forecasts generation|Querying forecast|The values of the prediction distribution for the sample items are shown in the graph below.|
 |Insights exploration|Creating and exporting explainability (item level)|Up to 50 items and up to 500 data points are supported.|  
