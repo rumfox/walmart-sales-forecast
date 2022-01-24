@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|
 |Preliminary|Data wrangling|The data was preprocessed to consist of 3 datasets, i.e. CSV files: the target time series, the related time series, and the item metadata. |
 |Preliminary|An **IAM Role** creation| |
-|Preliminary|Uploading data to a **S3 bucket**|Since each item must have at least 5 time series values, 5 NaN value time series were created for cold start items.|
+|Preliminary|Uploading data to a **S3 Bucket**|Since each item must have at least 5 time series values, 5 NaN value time series were created for cold start items.|
 |Importing data|Dataset group creation| |
 |Importing data|Datasets creation| |
 |Importing data|Importing datasets| |
